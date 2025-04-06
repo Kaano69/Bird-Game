@@ -28,7 +28,7 @@ Ein einfaches Flappy Bird-Spiel, das in Python mit der Bibliothek Pygame entwick
 2. Navigiere in das Projektverzeichnis:
 
     ```bash
-    cd FlappyBirdGame
+    cd Bird-Game
     ```
 
 3. Installiere die benötigten Abhängigkeiten (Pygame):
