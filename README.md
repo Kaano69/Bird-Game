@@ -22,7 +22,7 @@ Ein einfaches Flappy Bird-Spiel, das in Python mit der Bibliothek Pygame entwick
 1. Klone das Repository auf deinen Computer:
 
     ```bash
-    git clone https://github.com/dein-benutzername/FlappyBirdGame.git
+    git clone https://github.com/Kaano69/Bird-game.git
     ```
 
 2. Navigiere in das Projektverzeichnis:
