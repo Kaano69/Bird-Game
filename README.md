@@ -43,3 +43,9 @@ Um das Spiel zu starten, führe einfach die Python-Datei `main.py` aus:
 
 ```bash
 python main.py
+
+### Source Code
+
+## Dieser Code wurde vollständig mit KI generiert
+
+
